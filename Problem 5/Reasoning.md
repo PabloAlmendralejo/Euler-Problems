@@ -1,0 +1,1 @@
+Brute force algorithms, we can do some tweaks to improve its runtime, as only checking multiples of 20, but at the end we are just checking for each multiple of 20 if it is divisible by all numbers from 1 to 20.
